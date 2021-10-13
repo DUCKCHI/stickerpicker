@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Example.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}
